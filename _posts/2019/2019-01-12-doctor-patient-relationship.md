@@ -3,7 +3,7 @@ layout: post
 title: 在流感爆发的季节里,看中国的医患关系
 no-post-nav: true
 category: life
-tags: [life]
+ta
 ---
 
 这两天北京流感肆虐，据不完全统计朋友圈不少朋友纷纷中招，不幸的是我也在其中，和流感抗争了3天3夜之后，终于有所好转。
